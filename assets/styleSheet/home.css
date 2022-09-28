@@ -1,0 +1,10 @@
+
+
+#homePageBackground{
+    background: url("../images/main.jpg") no-repeat center;
+    background-size:100% 100% ;
+    width: 1000px ;
+    height: 678px ;
+    /*position: absolute;*/
+    /*z-index: 2;*/
+}
