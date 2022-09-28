@@ -16,12 +16,19 @@ header{
     color:#F6C074;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    display: inline-block;
+
 }
 #headerName2{
     color:#FFFFFF;
     font-weight:lighter;
     font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    position: relative;
+    right:3px;
+
 
 }
 
@@ -29,10 +36,18 @@ header{
     color: #FFFFFF;
     font-family: 'Inter', sans-serif;
     font-weight: normal;
+    font-size: 25px;
+
+
+}
+#navBar>ul>li{
+    margin-right:10px;
+    display:inline-block;
 }
 
 #navContact{
     color:#F6C074;
     font-weight:lighter;
     font-family: 'Inter', sans-serif;
+    font-size: 25px;
 }
