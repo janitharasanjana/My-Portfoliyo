@@ -56,9 +56,30 @@ background: url("../images/aboutc.jpg") no-repeat center;
     font-size: 20px;
     position: relative;
     top: -400px;
-    left: 200px;
+    left: 1000px;
 }
 
+#pra1,#pra2,#pra3,#pra4,#pra5{
+    color: #F6C074;
+    width: 700px;
+    height: 200px;
+    position: relative;
+    align-content: start;
+    left: 1000px;
+}
 
+#pra1{
+    top: -300px;
+}
 
+#pra2{
+    top: -500px;
+}
 
+#pra3{
+    top: -700px;
+}
+
+#pra4{
+    top: -900px;
+}
