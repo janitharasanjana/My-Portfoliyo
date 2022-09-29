@@ -21,14 +21,19 @@
 /*----Hello, i'm----*/
 #homepageTitle>h2:nth-child(1){
     color:#F6C074 ;
+    font-size: 45px;
     font-family: 'Jaldi', sans-seri;
     font-weight: lighter;
 }
 
+/*---- Janitha, Rasanjana -----*/
 #homepageTitle>h2:nth-child(2),h2:nth-child(3){color:#F6C074 ;
 
     color: #FFFFFF;
+    font-size: 85px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: lighter;
-
 }
+
+/*20*/
+
