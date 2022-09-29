@@ -1,5 +1,5 @@
 #mainAboutSection{
-background: url("../images/about.jpg") no-repeat center;
+background: url("../images/aboutc.jpg") no-repeat center;
     background-size: 100% 100%;
     width: 2026px;
     height: 1186px;
@@ -10,13 +10,14 @@ background: url("../images/about.jpg") no-repeat center;
 
 #aboutShape{
     background-color: #F6C074;
-    width: 200px;
-    height: 100px;
+    width:250px;
+    height: 94px;
     position: absolute;
-    left: 30px;
+    left: 311px;
+    top: 0;
 }
 
 #aboutTitle{
-    color: ;
+    /*color: ;*/
 }
 
