@@ -92,7 +92,9 @@ header{
 }
 
 /*--- nav bar animation ----*/
-#navBar>ul>li:nth-child(1):hover,li:nth-child(2):hover{
+#navBar>ul>li:nth-child(1):hover,li:nth-child(2):hover,
+li:nth-child(3):hover,li:nth-child(4):hover,
+li:nth-child(5):hover{
     color: #F6C074;
     font-family: 'Inter', sans-serif;
     font-weight: normal;
