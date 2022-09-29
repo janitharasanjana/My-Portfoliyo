@@ -8,7 +8,15 @@ background: url("../images/about.jpg") no-repeat center;
 
 }
 
-#aboutTitle{
+#aboutShape{
+    background-color: #F6C074;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    left: 30px;
+}
 
+#aboutTitle{
+    color: ;
 }
 
