@@ -14,9 +14,14 @@
     left: 180px;
 
 }
+
+/*----Hello, i'm----*/
 #homepageTitle>h2:nth-child(1){
     color:#F6C074 ;
     font-family: 'Jaldi', sans-seri;
+    font-weight: lighter;
+}
 
+#homepageTitle>h2:nth-child(2),h2:nth-child(3){
 
 }
