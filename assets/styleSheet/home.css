@@ -8,3 +8,13 @@
     /*position: absolute;*/
     /*z-index: 2;*/
 }
+#homepageTitle{
+    position: absolute;
+    top: 200px;
+    left: 180px;
+
+}
+#homepageTitle>h2:nth-child(1){
+
+
+}
