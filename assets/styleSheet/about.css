@@ -18,10 +18,13 @@ background: url("../images/aboutc.jpg") no-repeat center;
     width: 565px;
     height: 665px;
     position: relative;
-    border-radius: 20px;
-
+    border-radius: 50px;
     top: 165px;
     left: 400px;
+
+    /*dropshadow*/
+
+    box-shadow: 25px 15px 20px rgba(0, 0, 0, 0.15);
 }
 
 #aboutShape{
@@ -51,10 +54,11 @@ background: url("../images/aboutc.jpg") no-repeat center;
 #aboutMe{
     color: #F6C074;
     font-size: 20px;
+    position: relative;
+    top: -400px;
+    left: 200px;
 }
-#pra1,{
 
-}
 
 
 
