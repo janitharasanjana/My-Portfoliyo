@@ -1,5 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300&family=Jaldi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
 #homePageBackground{
     background: url("../images/main.jpg") no-repeat center;
     background-size:100% 100% ;
@@ -22,6 +25,10 @@
     font-weight: lighter;
 }
 
-#homepageTitle>h2:nth-child(2),h2:nth-child(3){
+#homepageTitle>h2:nth-child(2),h2:nth-child(3){color:#F6C074 ;
+
+    color: #FFFFFF;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: lighter;
 
 }
