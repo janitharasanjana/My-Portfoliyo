@@ -1,6 +1,14 @@
 #mainAboutSection{
 background: url("../images/about.jpg") no-repeat center;
+    background-size: 100% 100%;
     width: 2026px;
     height: 1186px;
+    position: relative;
+    /*MAIN EKATA RELATIVE DANNA ONI*/
+
+}
+
+#aboutTitle{
+
 }
 
