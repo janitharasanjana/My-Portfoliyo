@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 #mainAboutSection{
 background: url("../images/aboutc.jpg") no-repeat center;
     background-size: 100% 100%;
@@ -54,6 +57,7 @@ background: url("../images/aboutc.jpg") no-repeat center;
 #aboutMe{
     color: #F6C074;
     font-size: 35px;
+    font-family: 'Jaldi', sans-serif;
     position: relative;
     top: -400px;
     left: 1000px;
@@ -73,70 +77,92 @@ background: url("../images/aboutc.jpg") no-repeat center;
 
 #pra1{
 
-    color: #F6C074;
+    color: #ffffff;
     top:-400px;
     position: relative;
     left: 1000px;
     display: block;
     width: 300px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 }
 
 #pra2{
     top: -420px;
-    color: #F6C074;
+    color: #ffffff;
     position: relative;
     left: 1000px;
     display: block;
-    width: 500px;
+    width: 700px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 }
 
 
 #pra3{
     top: -440px;
-    color: #F6C074;
+    color: #ffffff;
     position: relative;
     left: 1000px;
     display: block;
-    width: 300px;
+    width: 500px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 }
 
 #pra4{
     top:-460px;
-    color: #F6C074;
-    position: relative;
-    left: 1000px;
-    display: block;
-    width: 300px;
-}
-
-#pra5{
-    top: -1100px;
-}
-
-#pra6{
-    top: -450px;
-    color: #F6C074;
+    color: #ffffff;
     position: relative;
     left: 1000px;
     display: block;
     width: 500px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
+}
+
+/*#pra5{*/
+/*    top: -1100px;*/
+/*}*/
+
+#pra6{
+    top: -450px;
+    color: #ffffff;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 600px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 }
 
 #pra7{
     top: -460px;
-    color: #F6C074;
+    color: #ffffff;
     position: relative;
     left: 1000px;
     display: block;
     width: 500px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 }
 
 #pra8,#pra10,#pra12,#pra14{
-    color: #F6C074;
+    color: #ffffff;
     position: relative;
     align-content: start;
     left: 1000px;
     display: inline-block;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity:70%;
+
 }
 
 #pra8{
@@ -155,11 +181,14 @@ background: url("../images/aboutc.jpg") no-repeat center;
     top: -650px;
 }
 
-#pra9,#pra11,#pra13,#pra15{
-    color: #F6C074;
+#pra9,#pra11,#pra13,#pra15,#pra16{
+    color: #ffffff;
     /*display: inline-block;*/
     position: relative;
     left: 1200px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    opacity: 70%;
 
 }
 #pra9{
@@ -175,5 +204,8 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra15{
+    top: -650px;
+}
+#pra16{
     top: -650px;
 }
