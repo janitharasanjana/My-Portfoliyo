@@ -4,4 +4,6 @@
     background-color: #1F2235;
     width: 2026px;
     height: 1100px;
+    background-size: 100% 100%;
+    position: absolute;
 }
