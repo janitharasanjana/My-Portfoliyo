@@ -74,7 +74,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 /*    left: 1000px;*/
 /*    display: inline-block;*/
 /*}*/
-
+#aboutMeDescription{
+    /*position: absolute;*/
+    /*border: 1px solid #F6C074;*/
+}
 #pra1{
 
     color: #ffffff;
