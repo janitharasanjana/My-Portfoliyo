@@ -4,7 +4,7 @@
 #mainServicePage{
     background-color: #1F2235;
     width: 2026px;
-    height: 1100px;
+    height: 900px;
     background-size: 100% 100%;
 
 }
@@ -68,5 +68,10 @@
 
 
 #serviceDeco{
-    background: url("../images/SERVICES.png");
+    background: url("../images/SERVICES.png") no-repeat center;
+    background-size: 100% 100%;
+    width: 2026px;
+    height: 300px;
+    position:relative ;
+    /*border: 1px solid white;*/
 }
