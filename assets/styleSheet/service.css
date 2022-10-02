@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
 
 #mainServicePage{
     background-color: #1F2235;
@@ -12,10 +13,54 @@
 #serviceTitle1{
     color: #ffffff;
     font-size: 55px;
+    font-family:  'Jost', sans-serif;
 }
 
 /*sub title*/
 #serviceTitle2{
     color: #F6C074;
     font-size: 35px;
+    font-family: 'Jaldi', sans-serif;
+    font-weight: lighter;
+}
+
+/*--------------------------------------------------*/
+
+
+/*--- web----*/
+#serviceAbout1{
+
+    position: absolute;
+    width: 300px;
+    height: 345px;
+
+    left: 200px;
+    background: url("../images/Group1.png") no-repeat center;
+    background-size: 100% 100%;
+}
+
+/*---- ui -----*/
+
+#serviceAbout2{
+    position: absolute;
+    width: 239px;
+    height: 312px;
+
+    left: 700px;
+    background: url("../images/Group2.png") no-repeat center;
+    background-size: 100% 100%;
+
+}
+
+/*----software develop-----*/
+#serviceAbout3{
+    position: absolute;
+    width: 296px;
+    height: 340px;
+
+    left: 1300px;
+    background: url("../images/Group3.png") no-repeat center;
+    background-size: 100% 100%;
+
+
 }
