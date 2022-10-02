@@ -221,11 +221,11 @@ background: url("../images/aboutc.jpg") no-repeat center;
     font-size: 25px;
     display: inline;
     position: relative;
-    left: 900px;
-    top: 200px;
-    border: 2px solid #F6C074;
+    left: 950px;
+    top: -640px;
+    border: 5px solid #F6C074;
     background-color: transparent;
-    border-radius: 10px;
+    border-radius: 20px;
     height: 50px;
     width: 170px;
 
