@@ -57,35 +57,122 @@ background: url("../images/aboutc.jpg") no-repeat center;
     position: relative;
     top: -400px;
     left: 1000px;
+    display: inline-block;
 }
 
-#pra1,#pra2,#pra3,#pra4,#pra5,#pra6,#pra7{
-    color: #F6C074;
-    width: 700px;
-    height: 200px;
-    position: relative;
-    align-content: start;
-    left: 1000px;
-}
+/*#pra1,#pra2,#pra3,#pra4,#pra5,#pra6,#pra7{*/
+/*    color: #F6C074;*/
+/*    !*width: 700px;*!*/
+/*    !*height: 200px;*!*/
+/*    position: relative;*/
+/*    align-content: start;*/
+/*    left: 1000px;*/
+/*    display: inline-block;*/
+/*}*/
 
 #pra1{
-    top: -300px;
+
+    color: #F6C074;
+    top:-400px;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 300px;
 }
 
 #pra2{
-    top: -500px;
+    top: -420px;
+    color: #F6C074;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 500px;
 }
 
+
 #pra3{
-    top: -700px;
+    top: -440px;
+    color: #F6C074;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 300px;
 }
 
 #pra4{
-    top: -900px;
+    top:-460px;
+    color: #F6C074;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 300px;
 }
 
 #pra5{
     top: -1100px;
 }
 
+#pra6{
+    top: -450px;
+    color: #F6C074;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 500px;
+}
 
+#pra7{
+    top: -460px;
+    color: #F6C074;
+    position: relative;
+    left: 1000px;
+    display: block;
+    width: 500px;
+}
+
+#pra8,#pra10,#pra12,#pra14{
+    color: #F6C074;
+    position: relative;
+    align-content: start;
+    left: 1000px;
+    display: inline-block;
+}
+
+#pra8{
+    top: -420px;
+}
+
+#pra10{
+    top: -495px
+}
+
+#pra12{
+    top: -570px;
+}
+
+#pra14{
+    top: -650px;
+}
+
+#pra9,#pra11,#pra13,#pra15{
+    color: #F6C074;
+    /*display: inline-block;*/
+    position: relative;
+    left: 1200px;
+
+}
+#pra9{
+    top: -420px;
+}
+
+#pra11{
+    top: -495px
+}
+
+#pra13{
+    top: -570px;
+}
+
+#pra15{
+    top: -650px;
+}
