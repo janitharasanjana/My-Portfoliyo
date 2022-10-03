@@ -54,6 +54,13 @@
 
 }
 #skillCss{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+    top: 243px;
+    background: url("../images/css.png") no-repeat center;
+    background-size: 100% 100%;
 
 }
 #skillMysql{
