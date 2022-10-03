@@ -64,5 +64,12 @@
 
 }
 #skillMysql{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+    top: 243px;
+    background: url("../images/mysql.png") no-repeat center;
+    background-size: 100% 100%;
 
 }
