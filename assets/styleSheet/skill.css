@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
 
 
 #mainSkillPage{
@@ -16,10 +18,29 @@
 }
 
 #skillTitle1{
+    width: 500px;
+    /* height: 100px;*/
     color: #ffffff;
     font-size: 55px;
     font-family:  'Jost', sans-serif;
     margin: 0;
+    position: relative;
+    left: 315px;
+
+}
+#skillTitle2{
+    width: 200px;
+
+    /*  height: 200px;*/
+    color: #F6C074;
+    font-size: 35px;
+    font-family: 'Jaldi', sans-serif;
+    font-weight: lighter;
+    position: relative;
+    /*top: 0;*/
+    left: 315px;
+    top: -35px;
+
 }
 
 
