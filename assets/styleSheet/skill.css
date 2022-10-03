@@ -1,12 +1,18 @@
 
 
 #mainSkillPage{
-    background-color: #9a0f47;
+    /*background-color: #9a0f47;*/
+    /*width: 2026px;*/
+    /*height: 1100px;*/
+    /*background-size: 100% 100%;*/
+    /*position: relative;*/
+    /*top: 0;*/
+
+    background-color: #22273B;
     width: 2026px;
-    height: 1100px;
+    height: 800px;
     background-size: 100% 100%;
     position: relative;
-    top: 0;
 }
 
 #skillTitle1{
@@ -14,4 +20,28 @@
     font-size: 55px;
     font-family:  'Jost', sans-serif;
     margin: 0;
+}
+
+
+#skillJava{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 100px;
+    top: 243px;
+    background: url("../images/java.png") no-repeat center;
+    background-size: 100% 100%;
+
+}
+#skillJavaFx{
+
+}
+#skillHtml{
+
+}
+#skillCss{
+
+}
+#skillMysql{
+
 }
