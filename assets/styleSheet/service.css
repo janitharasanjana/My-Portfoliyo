@@ -11,6 +11,8 @@
 
 /*main title*/
 #serviceTitle1{
+    width: 500px;
+   /* height: 100px;*/
     color: #ffffff;
     font-size: 55px;
     font-family:  'Jost', sans-serif;
@@ -21,10 +23,17 @@
 
 /*sub title*/
 #serviceTitle2{
+    width: 200px;
+
+  /*  height: 200px;*/
     color: #F6C074;
     font-size: 35px;
     font-family: 'Jaldi', sans-serif;
     font-weight: lighter;
+    position: relative;
+    /*top: 0;*/
+    left: 315px;
+    top: -35px;
 }
 
 /*--------------------------------------------------*/
