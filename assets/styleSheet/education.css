@@ -17,3 +17,18 @@
     position: relative;
     left: 315px;
 }
+
+#educationLeftPhoto{
+    background-color: #FFFFFF;
+    background-size: 100% 100%;
+    width: 565px;
+    height: 665px;
+    position: relative;
+    border-radius: 50px;
+    top: 1000px;
+    left: 400px;
+
+    /*dropshadow*/
+
+    box-shadow: 25px 15px 20px rgba(0, 0, 0, 0.15);
+}
