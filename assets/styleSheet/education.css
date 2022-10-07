@@ -25,6 +25,8 @@
     height: 800px;
     position: relative;
     border-radius: 50px;
+    /*border: solid ;*/
+    border: 2px solid #F6C074;
     top: 165px;
     left: 280px;
 
