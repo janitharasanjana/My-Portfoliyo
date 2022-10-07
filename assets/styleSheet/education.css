@@ -53,5 +53,20 @@
 
 }
 
-#educationPhoto3{}
+#educationPhoto3{
+    background-color: #FFFFFF;
+    background-size: 100% 100%;
+    width: 565px;
+    height: 800px;
+    position: relative;
+    border-radius: 50px;
+    /*border: solid ;*/
+    border: 2px solid #F6C074;
+    top: 165px;
+    left: 280px;
+
+    /*dropshadow*/
+
+    box-shadow: 25px 15px 20px rgba(0, 0, 0, 0.15);
+}
 #educationPhoto4{}
