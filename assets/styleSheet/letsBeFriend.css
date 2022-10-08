@@ -1,0 +1,36 @@
+
+
+#letsBeFriendsMainPage{
+    background-color: #22273B;
+    width: 2026px;
+    height: 1120px;
+    background-size: 100% 100%;
+    border: 1px solid #F6C074;
+    position: relative;
+}
+
+#letsBeFriendsTitle1{
+    width: 700px;
+    /* height: 100px;*/
+    color: #ffffff;
+    font-size: 55px;
+    font-family:  'Jost', sans-serif;
+    margin: 0;
+    position: relative;
+    left: 315px;
+}
+
+/*sub title*/
+#letsBeFriendsTitle2{
+    width: 200px;
+
+    /*  height: 200px;*/
+    color: #F6C074;
+    font-size: 35px;
+    font-family: 'Jaldi', sans-serif;
+    font-weight: lighter;
+    position: relative;
+    /*top: 0;*/
+    left: 315px;
+    top: -35px;
+}
