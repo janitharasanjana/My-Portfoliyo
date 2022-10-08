@@ -3,7 +3,7 @@
 #educationMainPage{
     background-color: #1F2235;
     width: 2026px;
-    height: 1120px;
+    height: 1200px;
     background-size: 100% 100%;
     position: relative;
 }
@@ -16,6 +16,7 @@
     margin: 0;
     position: relative;
     left: 315px;
+    top: 100px;
 }
 
 #educationLeftPhoto{
@@ -27,7 +28,7 @@
     border-radius: 50px;
     /*border: solid ;*/
     border: 2px solid #F6C074;
-    top: 165px;
+    top: 205px;
     left: 280px;
 
     /*dropshadow*/
@@ -38,14 +39,14 @@
 #educationPhoto2{
     background-color: #FFFFFF;
     background-size: 100% 100%;
-    width: 565px;
-    height: 450px;
+    width: 500px;
+    height: 440px;
     position: relative;
     border-radius: 50px;
     /*border: solid ;*/
     border: 2px solid #F6C074;
-    top: -755px;
-    left: 300px;
+    top: -720px;
+    left: 975px;
 
     /*dropshadow*/
 
@@ -56,14 +57,14 @@
 #educationPhoto3{
     background-color: #FFFFFF;
     background-size: 100% 100%;
-    width: 565px;
-    height: 450px;
+    width: 500px;
+    height: 440px;
     position: relative;
     border-radius: 50px;
     /*border: solid ;*/
     border: 2px solid #F6C074;
-    top: -742px;
-    left: 310px;
+    top: -690px;
+    left: 975px;
 
     /*dropshadow*/
 
@@ -72,14 +73,14 @@
 #educationPhoto4{
     background-color: #FFFFFF;
     background-size: 100% 100%;
-    width: 400px;
+    width: 320px;
     height: 917px;
     position: relative;
     border-radius: 50px;
     /*border: solid ;*/
     border: 2px solid #F6C074;
-    top: -1663px;
-    left: 1265px;
+    top: -1613px;
+    left: 1510px;
 
     /*dropshadow*/
 
