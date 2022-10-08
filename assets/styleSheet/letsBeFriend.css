@@ -63,6 +63,14 @@
     background: url("../images/Rectangle.png") no-repeat center;
     background-size: 100% 100%;
 }
-#lfEmail{}
+#lfEmail{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    left: 315px;
+    top: 6835px;
+    background: url("../images/Rectangle.png") no-repeat center;
+    background-size: 100% 100%;
+}
 #lfFacebook{}
 #lfWhatsApp{}
