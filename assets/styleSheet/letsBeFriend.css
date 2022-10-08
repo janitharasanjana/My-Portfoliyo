@@ -3,7 +3,7 @@
 #letsBeFriendsMainPage{
     background-color: #22273B;
     width: 2026px;
-    height: 1120px;
+    height: 810px;
     background-size: 100% 100%;
     border: 1px solid #F6C074;
     position: relative;
@@ -72,5 +72,21 @@
     background: url("../images/Rectangle.png") no-repeat center;
     background-size: 100% 100%;
 }
-#lfFacebook{}
-#lfWhatsApp{}
+#lfFacebook{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    left: 815px;
+    top: 6835px;
+    background: url("../images/Rectangle.png") no-repeat center;
+    background-size: 100% 100%;
+}
+#lfWhatsApp{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    left: 1300px;
+    top: 6835px;
+    background: url("../images/Rectangle.png") no-repeat center;
+    background-size: 100% 100%;
+}
