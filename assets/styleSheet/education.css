@@ -39,7 +39,7 @@
     background-color: #FFFFFF;
     background-size: 100% 100%;
     width: 565px;
-    height: 500px;
+    height: 450px;
     position: relative;
     border-radius: 50px;
     /*border: solid ;*/
@@ -57,12 +57,12 @@
     background-color: #FFFFFF;
     background-size: 100% 100%;
     width: 565px;
-    height: 500px;
+    height: 450px;
     position: relative;
     border-radius: 50px;
     /*border: solid ;*/
     border: 2px solid #F6C074;
-    top: 165px;
+    top: -742px;
     left: 310px;
 
     /*dropshadow*/
