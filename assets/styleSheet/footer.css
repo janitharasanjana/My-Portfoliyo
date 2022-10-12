@@ -57,8 +57,8 @@ footer{
     font-size: 25px;
     display: inline-block;
     position: relative;
-    left: 680px;
-    top: 50px;
+    left: 660px;
+    top: 90px;
 
 }
 #footernav>ul>li{
@@ -75,7 +75,7 @@ footer{
     display: inline;
     position: relative;
     left: 785px;
-    top: -50px;
+    top: -77px;
     border: 2px solid #F6C074;
     background-color: transparent;
     border-radius: 10px;
