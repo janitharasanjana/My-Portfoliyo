@@ -81,9 +81,9 @@ background: url("../images/aboutc.jpg") no-repeat center;
 #pra1{
 
     color: #ffffff;
-    top:-400px;
+    top:-420px;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 300px;
     font-size: 17.50px;
@@ -92,10 +92,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra2{
-    top: -420px;
+    top: -435px;
     color: #ffffff;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 700px;
     font-size: 17.50px;
@@ -105,10 +105,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 
 
 #pra3{
-    top: -440px;
+    top: -450px;
     color: #ffffff;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 500px;
     font-size: 17.50px;
@@ -117,10 +117,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra4{
-    top:-460px;
+    top:-465px;
     color: #ffffff;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 500px;
     font-size: 17.50px;
@@ -133,10 +133,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 /*}*/
 
 #pra6{
-    top: -450px;
+    top: -440px;
     color: #ffffff;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 600px;
     font-size: 17.50px;
@@ -145,10 +145,10 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra7{
-    top: -460px;
+    top: -455px;
     color: #ffffff;
     position: relative;
-    left: 1000px;
+    left: 1020px;
     display: block;
     width: 500px;
     font-size: 17.50px;
@@ -157,10 +157,11 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra8,#pra10,#pra12,#pra14{
+    margin: 0;
     color: #ffffff;
     position: relative;
     align-content: start;
-    left: 1000px;
+    left: 1020px;
     display: inline-block;
     font-size: 17.50px;
     font-family: 'Poppins', sans-serif;
@@ -169,22 +170,23 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 #pra8{
-    top: -420px;
+    top: -440px;
 }
 
 #pra10{
-    top: -495px
+    top: -455px
 }
 
 #pra12{
-    top: -570px;
+    top: -470px;
 }
 
 #pra14{
-    top: -650px;
+    top: -485px;
 }
 
 #pra9,#pra11,#pra13,#pra15,#pra16{
+    margin: 0;
     color: #ffffff;
     /*display: inline-block;*/
     position: relative;
