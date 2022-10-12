@@ -38,6 +38,17 @@ footer{
 
 }
 
+#allRight{
+    color: #FFFFFF;
+    font-size: 15px;
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+    left: 935px;
+    top: 360px;
+
+}
+
 
 #letsTalk{
  color: #FFFFFF;
