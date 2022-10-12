@@ -17,7 +17,7 @@ footer{
     font-size: 38px;
     display: inline-block;
     position: relative;
-    top: 50px;
+    top: 125px;
     left: 315px;
 
     /*margin-top: 70px*/
@@ -32,7 +32,7 @@ footer{
     font-size: 38px;
     display: inline-block;
     position: relative;
-    top: 50px;
+    top: 125px;
     left: 312px;
 
 
@@ -71,8 +71,8 @@ footer{
     font-size: 25px;
     display: inline;
     position: relative;
-    left: 900px;
-    top: 50px;
+    left: 785px;
+    top: -50px;
     border: 2px solid #F6C074;
     background-color: transparent;
     border-radius: 10px;
