@@ -41,10 +41,13 @@ footer{
 
 #letsTalk{
  color: #FFFFFF;
-    font-size: 40px;
+    font-size: 50px;
+    font-weight: bold;
     /*position: center;*/
-    left: 935px;
-width: 190px;
+    left: 895px;
+    width: 240px;
+    top: 50px;
+
 }
 
 #footernav{
