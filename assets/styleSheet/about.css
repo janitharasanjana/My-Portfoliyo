@@ -213,9 +213,9 @@ background: url("../images/aboutc.jpg") no-repeat center;
     top: -650px;
 }
 #pra16{
-    top: -650px;
+    top: -400px;
     font-weight: bold;
-    left: 1000px;
+    left: 1020px;
 }
 
 /*about cv download button*/
@@ -227,8 +227,8 @@ background: url("../images/aboutc.jpg") no-repeat center;
     font-size: 25px;
     display: inline;
     position: relative;
-    left: 950px;
-    top: -640px;
+    left: 1020px;
+    top: -360px;
     border: 5px solid #F6C074;
     background-color: transparent;
     border-radius: 35px;
