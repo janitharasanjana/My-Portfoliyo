@@ -43,6 +43,14 @@ header{
 
 }
 
+#allRight{
+    color: #FFFFFF;
+    font-size: 28px;
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    left: 850px;
+
+}
 #navBar{
     color: #FFFFFF;
     font-family: 'Inter', sans-serif;
