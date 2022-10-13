@@ -110,3 +110,15 @@
 #WhatsAppLogo{
 
 }
+
+
+/*--- bottom nav bar animation ----*/
+#footernav>ul>li>a:nth-child(1):hover,li>a:nth-child(2):hover,
+li>a:nth-child(3):hover,li>a:nth-child(4):hover,
+li:nth-child(5):hover{
+    color: #F6C074;
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+
+}
