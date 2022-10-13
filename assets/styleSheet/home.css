@@ -61,21 +61,10 @@
 
 
 
-/*================================*/
 
+/*=============================*/
+/*================================== 320->Mobile -S ==================================*/
 @media all and (max-width: 321px){
-
-    /*----Hello, i'm----*/
-    #homepageTitle>h2:nth-child(1){
-        color: #500b93;
-        font-size: 100px;
-        font-family: 'Jaldi', sans-seri;
-        font-weight: lighter;
-    }
-}
-
-/*================================== 425->Mobile -L ================================== */
-@media all and (min-width: 377px) and (max-width: 426px) {
     #homepageTitle>h2:nth-child(2), h2:nth-child(3) {
         color: #F6C074;
         color: #FFFFFF;
@@ -84,8 +73,35 @@
         font-family: 'Josefin Sans', sans-serif;
         /* font-weight: lighter; */
         position: relative;
-        top: -364px;
+        top: 133px;
     }
 }
+/*================================== 375 ->Mobile -M ==================================*/
+@media all and (min-width: 322px) and (max-width: 376px){
 
+}
 
+/*================================== 425->Mobile -L ================================== */
+@media all and (min-width: 377px) and (max-width: 426px){
+
+}
+
+/*================================== 768->Tablet ================================== */
+@media all and (min-width: 427px) and (max-width: 768px){
+
+}
+
+/*================================== 1024->Laptop ================================== */
+@media all and (min-width: 769px) and (max-width: 1024px){
+
+}
+
+/*================================== 1440->Laptop large ================================== */
+@media all and (min-width: 1025px) and (max-width: 1440px){
+
+}
+
+/* ================================== 4K ================================== */
+@media all and (min-width: 1441px) and (max-width: 2560px){
+
+}

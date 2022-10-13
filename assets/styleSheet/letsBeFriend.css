@@ -94,31 +94,65 @@
 
 /*---------- logos --------*/
 #linkLogo{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 815px;
+    top: 6835px;
+    z-index: 3;
+    background: url("../images/LinkedIN.png") no-repeat center;
+    background-size: 100% 100%;
 }
 #instaLogo{
-
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 815px;
+    top: 6835px;
+    z-index: 3;
+    background: url("../images/Instagram.png") no-repeat center;
+    background-size: 100% 100%;
 }
-#GithubLogo{
 
+#GithubLogo{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 815px;
+    top: 6835px;
+    z-index: 3;
+    background: url("../images/Fill.png") no-repeat center;
+    background-size: 100% 100%;
 }
 #EmailLogo{
-
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 815px;
+    top: 6835px;
+    z-index: 3;
+    background: url("../images/Mail.png") no-repeat center;
+    background-size: 100% 100%;
 }
 #FacebookLogo{
-
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 815px;
+    top: 6835px;
+    z-index: 3;
+    background: url("../images/Facebook.png") no-repeat center;
+    background-size: 100% 100%;
 }
 #WhatsAppLogo{
-
+    position: absolute;
+    width:60px;
+    height: 60px;
+    left: 1595px;
+    top: 6890px;
+    z-index: 3;
+    background: url("../images/WhatsApp.png") no-repeat center;
+    background-size: 100% 100%;
 }
 
 
-/*--- bottom nav bar animation ----*/
-#footernav>ul>li>a:nth-child(1):hover,li>a:nth-child(2):hover,
-li>a:nth-child(3):hover,li>a:nth-child(4):hover,
-li:nth-child(5):hover{
-    color: #F6C074;
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 25px;
-
-}

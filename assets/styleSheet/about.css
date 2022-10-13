@@ -237,3 +237,9 @@ background: url("../images/aboutc.jpg") no-repeat center;
     width: 170px;
 
 }
+
+
+/*================================== 425->Mobile -L ================================== */
+@media all and (min-width: 377px) and (max-width: 426px){
+
+}
