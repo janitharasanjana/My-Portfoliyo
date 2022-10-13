@@ -20,7 +20,8 @@
 }
 
 #educationLeftPhoto{
-    background-color: #FFFFFF;
+
+    /*background-color: #FFFFFF;*/
     background-size: 100% 100%;
     width: 565px;
     height: 800px;
@@ -37,7 +38,9 @@
 }
 
 #educationPhoto2{
-    background-color: #FFFFFF;
+    background: url("../images/p5n.png")no-repeat center;
+    /*background-image: url("../images/photo3.png");*/
+    /*background-color: #FFFFFF;*/
     background-size: 100% 100%;
     width: 500px;
     height: 440px;
@@ -55,7 +58,9 @@
 }
 
 #educationPhoto3{
-    background-color: #FFFFFF;
+
+    background: url("../images/p4.jpg") no-repeat center ;
+    /*background-color: #FFFFFF;*/
     background-size: 100% 100%;
     width: 500px;
     height: 440px;
@@ -71,8 +76,10 @@
     box-shadow: 25px 15px 20px rgba(0, 0, 0, 0.15);
 }
 #educationPhoto4{
-    background-color: #FFFFFF;
-    background-size: 100% 100%;
+
+    background: url("../images/p3n.png")no-repeat center;
+    /*background-color: #FFFFFF;*/
+    background-size: 130% 120%;
     width: 320px;
     height: 917px;
     position: relative;
