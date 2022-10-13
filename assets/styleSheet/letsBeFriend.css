@@ -95,8 +95,8 @@
 /*---------- logos --------*/
 #linkLogo{
     position: absolute;
-    width: 400px;
-    height: 400px;
+    width: 60px;
+    height: 60px;
     left: 815px;
     top: 6835px;
     z-index: 3;
@@ -105,8 +105,8 @@
 }
 #instaLogo{
     position: absolute;
-    width: 400px;
-    height: 400px;
+    width: 60px;
+    height: 60px;
     left: 815px;
     top: 6835px;
     z-index: 3;
@@ -116,8 +116,8 @@
 
 #GithubLogo{
     position: absolute;
-    width: 400px;
-    height: 400px;
+    width: 60px;
+    height: 60px;
     left: 815px;
     top: 6835px;
     z-index: 3;
@@ -126,10 +126,10 @@
 }
 #EmailLogo{
     position: absolute;
-    width: 400px;
-    height: 400px;
+    width: 60px;
+    height: 60px;
     left: 815px;
-    top: 6835px;
+    top: 6890px;
     z-index: 3;
     background: url("../images/Mail.png") no-repeat center;
     background-size: 100% 100%;
@@ -139,7 +139,7 @@
     width: 60px;
     height: 60px;
     left: 815px;
-    top: 6835px;
+    top: 6890px;
     z-index: 3;
     background: url("../images/Facebook.png") no-repeat center;
     background-size: 100% 100%;
