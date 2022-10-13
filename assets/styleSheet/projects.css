@@ -26,9 +26,10 @@
 }
 #pro1button{
     position: relative;
-    top: 800px;
-    left: 350px;
+    top: 770px;
+    left: 475px;
     width: 80px;
+    height: 40px;
     z-index: 3;
     /*z-index danne yata thiyana eka udata ganna*/
     font-family: 'Inter', sans-serif;
@@ -62,9 +63,10 @@
 
 #pro2button{
     position: relative;
-    top: 800px;
-    left: 800px;
+    top: 770px;
+    left: 925px;
     width: 80px;
+    height: 40px;
     z-index: 3;
     /*z-index danne yata thiyana eka udata ganna*/
     font-family: 'Inter', sans-serif;
@@ -98,9 +100,10 @@
 }
 #pro3button{
     position: relative;
-    top: 800px;
-    left: 1200px;
+    top: 770px;
+    left: 1365px;
     width: 80px;
+    height: 40px;
     z-index: 3;
     /*z-index danne yata thiyana eka udata ganna*/
     font-family: 'Inter', sans-serif;
