@@ -1,4 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 
+#pro1pra{
+    top: 603px;
+    color: #ffffff;
+    position: relative;
+    left: 303px;
+    display: block;
+    width: 700px;
+    font-size: 17.50px;
+    font-family: 'Poppins', sans-serif;
+    /*opacity: 70%;*/
+}
 #projectMainPage{
     background-color: #22273B;
     width: 2026px;
@@ -48,3 +64,4 @@
     background-size: 100% 100%;
 
 }
+
