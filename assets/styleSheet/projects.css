@@ -21,16 +21,30 @@
 
 #pro1{
     position: absolute;
-    width: 435px;
-    height: 570px;
+    width: 485px;
+    height: 620px;
     left: 265px;
     top: 290px;
     background: url("../images/pro1.png") no-repeat center;
     background-size: 100% 100%;
 }
 #pro2{
+    position: absolute;
+    width: 485px;
+    height: 620px;
+    left: 795px;
+    top: 290px;
+    background: url("../images/pro2.png") no-repeat center;
+    background-size: 100% 100%;
 
 }
 #pro3{
+    position: absolute;
+    width: 485px;
+    height: 620px;
+    left: 1320px;
+    top: 290px;
+    background: url("../images/pro3.png") no-repeat center;
+    background-size: 100% 100%;
 
 }
