@@ -16,7 +16,8 @@ background: url("../images/aboutc.jpg") no-repeat center;
 
 
 #aboutSecondPicture{
-    background-color: #FFFFFF;
+    background-image: url("../images/2photo.png");
+    /*background-color: #FFFFFF;*/
     background-size: 100% 100%;
     width: 565px;
     height: 665px;
