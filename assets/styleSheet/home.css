@@ -61,5 +61,31 @@
 
 
 
+/*================================*/
+
+@media all and (max-width: 321px){
+
+    /*----Hello, i'm----*/
+    #homepageTitle>h2:nth-child(1){
+        color: #500b93;
+        font-size: 100px;
+        font-family: 'Jaldi', sans-seri;
+        font-weight: lighter;
+    }
+}
+
+/*================================== 425->Mobile -L ================================== */
+@media all and (min-width: 377px) and (max-width: 426px) {
+    #homepageTitle>h2:nth-child(2), h2:nth-child(3) {
+        color: #F6C074;
+        color: #FFFFFF;
+        font-weight: normal;
+        font-size: 95px;
+        font-family: 'Josefin Sans', sans-serif;
+        /* font-weight: lighter; */
+        position: relative;
+        top: -364px;
+    }
+}
 
 
