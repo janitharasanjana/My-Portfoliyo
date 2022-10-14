@@ -121,7 +121,7 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 370px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
     left: 415px;
 
@@ -132,8 +132,9 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 395px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 
 }
@@ -143,8 +144,9 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 420px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 }
 
@@ -158,7 +160,7 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 580px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
     left: 415px;
 
@@ -170,8 +172,9 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 605px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 
 }
@@ -181,8 +184,9 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 630px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 }
 
@@ -197,7 +201,7 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 785px;
-    font-family:'Jaldi', sans-serif;
+    font-family: 'Jost', sans-serif;
     font-size: 28px;
     left: 415px;
 
@@ -209,8 +213,9 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 810px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 
 }
@@ -220,7 +225,8 @@ position: absolute;
     width: 423px;
     color: #FFFFFF;
     top: 835px;
-    font-family:'Jaldi', sans-serif;
+    font-family:'Jost', sans-serif;
     font-size: 28px;
+    font-weight: lighter;
     left: 415px;
 }
