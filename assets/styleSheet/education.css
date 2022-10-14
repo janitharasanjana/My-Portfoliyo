@@ -114,7 +114,7 @@
 
 /*====================================*/
 
-/*education level text*/
+/*education level text 1*/
 
 #educationMainText1{
 position: absolute;
@@ -143,4 +143,19 @@ position: absolute;
     top: 420px;
     font-family:'Jaldi', sans-serif;
     font-size: 28px;
+}
+
+
+/*====================================*/
+
+/*education level text 2*/
+
+#educationMainText2{
+    position: absolute;
+    width: 423px;
+    color: #FFFFFF;
+    top: 580px;
+    font-family:'Jaldi', sans-serif;
+    font-size: 28px;
+
 }
