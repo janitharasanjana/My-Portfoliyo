@@ -137,5 +137,10 @@ position: absolute;
 }
 
 #educationYear1{
-
+    position: absolute;
+    width: 423px;
+    color: #FFFFFF;
+    top: 420px;
+    font-family:'Jaldi', sans-serif;
+    font-size: 28px;
 }
