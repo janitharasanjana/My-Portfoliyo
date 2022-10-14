@@ -227,4 +227,23 @@
 
 /*<!--email-->*/
 
+#letsBeMail1{
+    position: absolute;
+    width: 423px;
+    color: #FFFFFF;
+    top: 6865px;
+    font-family: 'Jaldi', sans-serif;
+    font-size: 28px;
+    left: 374px;
+}
+
+#letsBeMail2{
+    position: absolute;
+    width: 423px;
+    color: #FFFFFF;
+    top: 6760px;
+    font-family: 'Jaldi', sans-serif;
+    font-size: 28px;
+    left: 374px;
+}
 /*---whatsapp---*/
