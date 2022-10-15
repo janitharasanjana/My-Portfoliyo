@@ -6,6 +6,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+Site Map Link **https://www.gloomaps.com/pA3Fj3mvHK
+<br>
+<br> 
+Wire Frame Link **https://app.diagrams.net/?src=about#G1UD3PfJOo_Pl2dxMALVaBmEu68Dwa64r5
+<br>
+<br> 
+ Mock Up Link **https://www.figma.com/file/JaPQrBarqxyyucqZA0lHOa/My-profile?node-id=0%3A1
+
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janitha-rasanjana-873099244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janitha-rasanjana-873099244/" height="30" width="40" /></a>
 </p>
 
