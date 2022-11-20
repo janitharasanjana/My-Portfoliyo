@@ -12,17 +12,17 @@
     background-size: 100% 100%;
     position: relative;
 }
-#educationTitle1{
-    width: 500px;
-    /* height: 100px;*/
-    color: #ffffff;
-    font-size: 55px;
-    font-family:  'Jost', sans-serif;
-    margin: 0;
-    position: relative;
-    left: 315px;
-    top: 100px;
-}
+    #educationTitle1{
+        width: 500px;
+        /* height: 100px;*/
+        color: #ffffff;
+        font-size: 55px;
+        font-family:  'Jost', sans-serif;
+        margin: 0;
+        position: relative;
+        left: 315px;
+        top: 100px;
+    }
 
 #educationLeftPhoto{
 
