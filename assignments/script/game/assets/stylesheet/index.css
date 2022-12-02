@@ -1,0 +1,8 @@
+.main{
+    margin: 0px;
+}
+
+.background{
+    height: 100%;
+    background-image: url("../image/background.jpg");
+}
