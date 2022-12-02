@@ -17,5 +17,5 @@ function idleAnimation (){
 
 
 function idleAnimationStart(){
-    idelAnimationNumber = setInterval(idleAnimation,200);
+    idelAnimationNumber = setInterval(idleAnimation,50);
 }
