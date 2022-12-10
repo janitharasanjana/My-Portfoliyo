@@ -52,4 +52,16 @@ function keyCheck(event){
             runAnimationStart();
         }
     }
+
+    if (moveBackgroundAnimationId == 0){
+        moveBackgroundAnimationId = setInterval(backgroundMove,100);
+
+    }
+}
+
+var backgroundImagePositionX = 0;
+var moveBackgroundAnimationId = 0 ;
+function backgroundMove(){
+    backgroundImagePositionX = backgroundImagePositionX - 20;
+document.getElementById("background").style.backgroundPositionX = backgroundImagePositionX + "px" ;
 }
