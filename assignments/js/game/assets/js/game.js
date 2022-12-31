@@ -1,7 +1,7 @@
 var boy = document.getElementById("boy");
 
 
-idleImageNumber= 0
+idleImageNumber= 1
 idelAnimationNumber = 0
 
 
@@ -21,7 +21,7 @@ function idleAnimationStart(){
 }
 
 
-runImageNumber = 0;
+runImageNumber = 1;
 runAnimationNumber = 0;
 
 function runAnimation(){
@@ -41,6 +41,11 @@ function runAnimationStart(){
 
 }
 
+function jumpAnimation(){
+
+}
+
+
 function keyCheck(event){
 
    /* alert(event.which);
@@ -51,12 +56,13 @@ function keyCheck(event){
         if (runAnimationNumber == 0){
             runAnimationStart();
         }
+        if (moveBackgroundAnimationId == 0){
+            moveBackgroundAnimationId = setInterval(backgroundMove,100);
+
+        }
     }
 
-    if (moveBackgroundAnimationId == 0){
-        moveBackgroundAnimationId = setInterval(backgroundMove,100);
 
-    }
 }
 
 var backgroundImagePositionX = 0;
