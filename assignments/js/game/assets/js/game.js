@@ -44,7 +44,9 @@ function runAnimationStart(){
 function jumpAnimation(){
 
 }
+function jumpAnimationStart(){
 
+}
 
 function keyCheck(event){
 
