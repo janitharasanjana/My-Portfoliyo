@@ -66,15 +66,17 @@
 /*================================== 320->Mobile -S ==================================*/
 @media all and (max-width: 321px){
     #homepageTitle>h2:nth-child(2), h2:nth-child(3) {
-        color: #F6C074;
-        color: #FFFFFF;
+        /*color: #F6C074;*/
+        /*color: #FFFFFF;*/
         font-weight: normal;
         font-size: 95px;
-        font-family: 'Josefin Sans', sans-serif;
+        /*font-family: 'Josefin Sans', sans-serif;*/
         /* font-weight: lighter; */
         position: relative;
         top: 133px;
     }
+
+
 }
 /*================================== 375 ->Mobile -M ==================================*/
 @media all and (min-width: 322px) and (max-width: 376px){
@@ -94,10 +96,18 @@
 /*================================== 1024->Laptop ================================== */
 @media all and (min-width: 769px) and (max-width: 1024px){
 
+
+
 }
 
 /*================================== 1440->Laptop large ================================== */
 @media all and (min-width: 1025px) and (max-width: 1440px){
+    #homepageTitle {
+        position: absolute;
+        top: 200px;
+        left: 70px;
+    }
+
 
 }
 

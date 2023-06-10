@@ -239,7 +239,35 @@ background: url("../images/aboutc.jpg") no-repeat center;
 }
 
 
+/*================================== 320->Mobile -S ==================================*/
+@media all and (max-width: 321px){
+}
+/*================================== 375 ->Mobile -M ==================================*/
+@media all and (min-width: 322px) and (max-width: 376px){
+
+}
+
 /*================================== 425->Mobile -L ================================== */
 @media all and (min-width: 377px) and (max-width: 426px){
+
+}
+
+/*================================== 768->Tablet ================================== */
+@media all and (min-width: 427px) and (max-width: 768px){
+
+}
+
+/*================================== 1024->Laptop ================================== */
+@media all and (min-width: 769px) and (max-width: 1024px){
+
+}
+
+/*================================== 1440->Laptop large ================================== */
+@media all and (min-width: 1025px) and (max-width: 1440px){
+
+}
+
+/* ================================== 4K ================================== */
+@media all and (min-width: 1441px) and (max-width: 2560px){
 
 }
