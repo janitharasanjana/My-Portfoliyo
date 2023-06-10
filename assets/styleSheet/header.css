@@ -122,6 +122,22 @@ li:nth-child(5):hover{
 /*================================== 425->Mobile -L ================================== */
 @media all and (min-width: 377px) and (max-width: 426px){
 
+    #navContact {
+        /*color: #F6C074;*/
+        /*font-weight: lighter;*/
+        /*font-family: 'Inter', sans-serif;*/
+        font-size: 25px;
+        display: inline;
+        position: relative;
+        left: -191px;
+        top: 50px;
+        /*border: 2px solid #F6C074;*/
+        /*background-color: transparent;*/
+        /*border-radius: 10px;*/
+        /*height: 50px;*/
+        /*width: 170px;*/
+    }
+
 }
 
 /*================================== 768->Tablet ================================== */
@@ -136,84 +152,147 @@ li:nth-child(5):hover{
 
 /*================================== 1440->Laptop large ================================== */
 @media all and (min-width: 1025px) and (max-width: 1440px){
-    #navBar {
-        color: #FFFFFF;
-        /*font-family: 'Inter', sans-serif;*/
-        /*font-weight: normal;*/
-        font-size: 19px;
-        /*display: inline-block;*/
-        /*position: relative;*/
-        left: 100px;
-        top: 50px;
+    /*#navBar {*/
+    /*    color: #FFFFFF;*/
+    /*    !*font-family: 'Inter', sans-serif;*!*/
+    /*    !*font-weight: normal;*!*/
+    /*    font-size: 19px;*/
+    /*    !*display: inline-block;*!*/
+    /*    !*position: relative;*!*/
+    /*    left: 100px;*/
+    /*    top: 50px;*/
+    /*}*/
+
+    /*#headerName2 {*/
+    /*    color: #FFFFFF;*/
+    /*    !*font-weight: lighter;*!*/
+    /*    !*font-family: 'Inter', sans-serif;*!*/
+    /*    font-size: 25px;*/
+    /*    !*display: inline-block;*!*/
+    /*    !*position: relative;*!*/
+    /*    top: 50px;*/
+    /*    left: 52px;*/
+    /*}*/
+    /*#headerName1 {*/
+    /*    color: #F6C074;*/
+    /*    font-weight: bold;*/
+    /*    !*font-family: 'Inter', sans-serif;*!*/
+    /*    font-size: 25px;*/
+    /*    !*display: inline-block;*!*/
+    /*    !*position: relative;*!*/
+    /*    top: 50px;*/
+    /*    left: 55px;*/
+    /*    !* margin-top: 70px; *!*/
+    /*}*/
+
+    /*#navContact {*/
+    /*    color: #F6C074;*/
+    /*    !*font-weight: lighter;*!*/
+    /*    !*font-family: 'Inter', sans-serif;*!*/
+    /*    font-size: 19px;*/
+    /*    !*display: inline;*!*/
+    /*    position: relative;*/
+    /*    left: 100px;*/
+    /*    top: 50px;*/
+    /*    !*border: 2px solid #F6C074;*!*/
+    /*    !*background-color: transparent;*!*/
+    /*    border-radius: 10px;*/
+    /*    height: 40px;*/
+    /*    width: 135px;*/
+    /*}*/
+
+    /*#homepageTitle>h2:nth-child(1) {*/
+    /*    color: #F6C074;*/
+    /*    font-size: 35px;*/
+    /*    !*font-family: 'Jaldi', sans-seri;*!*/
+    /*    font-weight: lighter;*/
+    /*}*/
+    /*#homepageTitle>h2:nth-child(2), h2:nth-child(3) {*/
+    /*    !*color: #F6C074;*!*/
+    /*    !*color: #FFFFFF;*!*/
+    /*    font-weight: normal;*/
+    /*    font-size: 65px;*/
+    /*    !*font-family: 'Josefin Sans', sans-serif;*!*/
+    /*    !* font-weight: lighter; *!*/
+    /*    position: relative;*/
+    /*    top: -60px;*/
+    /*}*/
+
+    /*#homepageTitle>h2:nth-child(4) {*/
+    /*    color: #FFFFFF;*/
+    /*    font-size: 19px;*/
+    /*    !*font-family: 'Inter', sans-serif;*!*/
+    /*    !*font-weight: normal;*!*/
+    /*    !*position: relative;*!*/
+    /*    top: -130px;*/
+    /*}*/
+    /*#homepageTitle>h2:nth-child(3) {*/
+    /*    !* font-size: 346px; *!*/
+    /*    position: relative;*/
+    /*    top: -120px;*/
+    /*}*/
+    /*header{*/
+    /*    width: 1440px;*/
+    /*    height: 900px;*/
+    /*    position: absolute;*/
+    /*}*/
+
+    header{
+        width: 1440px;
+        height: 800px;
+        position: absolute;
     }
 
-    #headerName2 {
-        color: #FFFFFF;
-        /*font-weight: lighter;*/
+    #navBar {
+        /*color: #FFFFFF;*/
         /*font-family: 'Inter', sans-serif;*/
-        font-size: 25px;
+        /*font-weight: normal;*/
+        font-size: 18px;
         /*display: inline-block;*/
         /*position: relative;*/
-        top: 50px;
-        left: 52px;
-    }
-    #headerName1 {
-        color: #F6C074;
-        font-weight: bold;
-        /*font-family: 'Inter', sans-serif;*/
-        font-size: 25px;
-        /*display: inline-block;*/
-        /*position: relative;*/
-        top: 50px;
-        left: 55px;
-        /* margin-top: 70px; */
+        left: 270px;
+        top: 40px;
     }
 
     #navContact {
-        color: #F6C074;
+        /*color: #F6C074;*/
         /*font-weight: lighter;*/
         /*font-family: 'Inter', sans-serif;*/
-        font-size: 19px;
+        font-size: 18px;
         /*display: inline;*/
-        position: relative;
-        left: 100px;
-        top: 50px;
+        /*position: relative;*/
+        left: 300px;
+        top: 40px;
         /*border: 2px solid #F6C074;*/
         /*background-color: transparent;*/
-        border-radius: 10px;
+        /*border-radius: 10px;*/
         height: 40px;
-        width: 135px;
+        width: 130px;
     }
 
-    #homepageTitle>h2:nth-child(1) {
-        color: #F6C074;
-        font-size: 35px;
-        /*font-family: 'Jaldi', sans-seri;*/
-        font-weight: lighter;
-    }
-    #homepageTitle>h2:nth-child(2), h2:nth-child(3) {
+    #headerName1 {
         /*color: #F6C074;*/
-        /*color: #FFFFFF;*/
-        font-weight: normal;
-        font-size: 65px;
-        /*font-family: 'Josefin Sans', sans-serif;*/
-        /* font-weight: lighter; */
-        position: relative;
-        top: -60px;
+        /*font-weight: bold;*/
+        /*font-family: 'Inter', sans-serif;*/
+        font-size: 18px;
+        /*display: inline-block;*/
+        /*position: relative;*/
+        top: 40px;
+        left: 100px;
+        /* margin-top: 70px; */
     }
 
-    #homepageTitle>h2:nth-child(4) {
-        color: #FFFFFF;
-        font-size: 19px;
+
+
+    #headerName2 {
+        /*color: #FFFFFF;*/
+        /*font-weight: lighter;*/
         /*font-family: 'Inter', sans-serif;*/
-        /*font-weight: normal;*/
+        font-size: 18px;
+        /*display: inline-block;*/
         /*position: relative;*/
-        top: -130px;
-    }
-    #homepageTitle>h2:nth-child(3) {
-        /* font-size: 346px; */
-        position: relative;
-        top: -120px;
+        top: 40px;
+        left: 97px;
     }
 }
 
